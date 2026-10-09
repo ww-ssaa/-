@@ -1,0 +1,4 @@
+PROGRAM WriteLadaRUS(INPUT, OUTPUT);
+BEGIN
+  WRITELN('‹€„€')
+END.
