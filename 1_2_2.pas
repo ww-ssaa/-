@@ -1,5 +1,0 @@
-PROGRAM Palindrome(INPUT, OUTPUT);
-BEGIN
-  WRITE('MADAM, ');
-  WRITELN('I''M ADAM')
-END.
